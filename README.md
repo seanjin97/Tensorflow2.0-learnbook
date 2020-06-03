@@ -11,6 +11,6 @@ Neural networks used:<br>
 
 Credits to MIT 6.S191: Introduction to Deep Learning (https://github.com/aamini/introtodeeplearning) for the notebook templates and code resources. <br>
 
-# © MIT 6.S191: Introduction to Deep Learning
-
-# http://introtodeeplearning.com
+> © MIT 6.S191: Introduction to Deep Learning
+>
+> http://introtodeeplearning.com
